@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# key: :
+# name: list constructor
+# contributor: Vadim Kornev <vek.var@gmail.com>
+# --
+(${1:x}:$1s) $0

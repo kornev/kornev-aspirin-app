@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: R Silent Cell
+# key: rsilent
+# contributor: Vadim Kornev
+# --
+#+BEGIN_SRC ${1:R} :session :results none :exports none
+$0
+#+END_SRC

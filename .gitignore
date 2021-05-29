@@ -1,0 +1,23 @@
+# -*- mode: gitignore -*-
+
+.*
+*.elc
+!.gitkeep
+!.projectile
+!.yas-setup.el
+
+!/.gitignore
+!/.gitattributes
+!/.gitmessage
+
+/elpa/*
+/packages/*
+
+/personal/*
+/personal/snippets/*
+!/personal/snippets/
+!/personal/snippets/.gitkeep
+/personal/modules/*
+!/personal/modules/
+!/personal/modules/.gitkeep
+

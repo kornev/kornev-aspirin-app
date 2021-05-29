@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# key: main
+# name: main function
+# condition: (= (length "main") (current-column))
+# expand-env: ((yas-indent-line 'fixed))
+# contributor: Luke Hoersten <luke@hoersten.org>
+# --
+main :: IO ()
+main = do
+    ${1:undefined}$0

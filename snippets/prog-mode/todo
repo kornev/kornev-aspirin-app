@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: TODO codetag
+# key: todo
+# contributor: Vadim Kornev
+# --
+`(yas-with-comment "TODO: ")`

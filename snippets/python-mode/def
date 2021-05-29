@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: New Function/Method
+# key: def
+# expand-env: ((yas-indent-line 'fixed))
+# contributor: Vadim Kornev
+# --
+def ${1:name}(${2:self, $3}):
+    ${4:pass}

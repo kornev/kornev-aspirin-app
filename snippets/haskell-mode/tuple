@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# key: ,
+# name: tuple
+# contributor: Vadim Kornev <vek.var@gmail.com>
+# --
+(${1:undefined},${2:undefined}) $0

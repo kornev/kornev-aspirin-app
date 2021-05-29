@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: if __name__ == '__main__'
+# key: main
+# condition: (= (length "main") (current-column))
+# expand-env: ((yas-indent-line 'fixed))
+# contributor: Vadim Kornev
+# --
+if __name__ == '__main__':
+    ${1:main()}$0

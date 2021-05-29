@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: FIXME codetag
+# key: fixme
+# contributor: Vadim Kornev
+# --
+`(yas-with-comment "FIXME: ")`

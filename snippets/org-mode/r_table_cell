@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: R Table Cell
+# key: rtable
+# contributor: Vadim Kornev
+# --
+#+BEGIN_SRC R :session :colnames yes :rownames yes
+$0
+#+END_SRC

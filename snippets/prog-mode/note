@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: NOTE codetag
+# key: note
+# contributor: Vadim Kornev
+# --
+`(yas-with-comment "NOTE: ")`

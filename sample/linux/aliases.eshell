@@ -1,0 +1,9 @@
+alias e  find-file $1
+alias j  jobs
+alias h  history 25
+alias g  git $*
+alias lf ls -AFv --group-directories-first $1
+alias ll ls -lAvhn --group-directories-first --time-style=long-iso $1
+alias du du -d1 -h $*
+alias df df -Th $1
+alias clear clear-scrollback

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: Set Breakpoint
+# key: pdb
+# contributor: Vadim Kornev
+# --
+import pdb; pdb.set_trace()

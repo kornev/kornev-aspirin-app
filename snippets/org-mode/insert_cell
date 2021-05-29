@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Insert Cell
+# contributor: Vadim Kornev
+# --
+#+BEGIN_SRC ipython :session ${1::file ${2:$$(unless yas-modified-p (yas-touch-png))} }:exports ${3:both}
+$0
+#+END_SRC

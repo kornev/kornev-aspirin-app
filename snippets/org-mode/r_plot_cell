@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: R Plot Cell
+# key: rplot
+# contributor: Vadim Kornev
+# --
+#+BEGIN_SRC R :session${1: :results graphics :file ${2:$$(unless yas-modified-p (yas-touch-png))} :width 400 :height 200}
+$0
+#+END_SRC

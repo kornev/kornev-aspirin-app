@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: New Instance Variable
+# key: self
+# contributor: Vadim Kornev
+# --
+self.$1 = $1

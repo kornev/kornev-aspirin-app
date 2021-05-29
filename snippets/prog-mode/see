@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: SEE codetag
+# key: see
+# contributor: Vadim Kornev
+# --
+`(yas-with-comment "SEE: ")`
