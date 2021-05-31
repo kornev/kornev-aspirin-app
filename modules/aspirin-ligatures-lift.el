@@ -22,7 +22,7 @@
 ;;       point is on it.
 (setq prettify-symbols-unprettify-at-point t)
 
-;; NOTE: Use PragmataPro 0.829
+;; NOTE: Use PragmataPro_Mono_R_liga_0829
 (defun aspirin-pragmata-pro-ligatures ()
   '(;;; PUA Ligatures
     ;; U+E900
@@ -190,7 +190,6 @@
 
     ;;; U+EA20
     (">-"  . #XEA20)
-    (">="  . #XEA21)
     (">>-" . #XEA22)
     (">>=" . #XEA23)
     (">=>" . #XEA24)
@@ -198,7 +197,7 @@
     (">>|" . #XEA26)
     (">->" . #XEA28)
     (">==" . #XEA29)
-    (">>"  . #XEA2A)
+    (">="  . #XEA2A)
     (">/=" . #XEA2B)
     (">-|" . #XEA2C)
     (">=|" . #XEA2D)
